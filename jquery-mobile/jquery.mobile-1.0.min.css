@@ -16,10 +16,18 @@
 #page2 #football {
 	text-decoration: none;
 	color: rgba(0,0,0,1);
+	margin-left: 5%;
 }
+
 #page2 div #netball {
 	text-decoration: none;
-	margin-left: 15%;
+	margin-left: 20%;
+	color: rgba(0,0,0,1);
+	text-align: center;
+}
+#page2 div #news {
+	text-decoration: none;
+	margin-left: 20%;
 	color: rgba(0,0,0,1);
 	text-align: center;
 }
